@@ -1,0 +1,9 @@
+date,time,state,county,location,distance,direction,lat,lon,phenomenon,value,unit,source,description,X15,office,time_fixed,datetime
+1/22/2026,300 AM,MD,Garrett,Grantsville,5,W,39.7,-79.25,SNOW,5,Inch,Dept of Highways,Storm Total Snow,NA,LWX,3:00 AM,2026-01-22T08:00:00Z
+1/22/2026,400 AM,MD,Garrett,Oakland,NA,NA,39.4,-79.4,SNOW,4.5,Inch,Dept of Highways,Storm Total Snow,NA,LWX,4:00 AM,2026-01-22T09:00:00Z
+1/21/2026,941 PM,MD,Garrett,Mc Henry,7,W,39.55,-79.48,SNOW,4,Inch,Dept of Highways,Storm Total Snow,NA,LWX,9:41 PM,2026-01-22T02:41:00Z
+1/21/2026,938 PM,MD,Garrett,Mountain Lake Park,1,ENE,39.41,-79.36,SNOW,3.5,Inch,Dept of Highways,Storm Total Snow,NA,LWX,9:38 PM,2026-01-22T02:38:00Z
+1/21/2026,936 PM,MD,Garrett,Accident,3,NNE,39.66,-79.3,SNOW,3.5,Inch,Dept of Highways,Storm Total Snow,NA,LWX,9:36 PM,2026-01-22T02:36:00Z
+1/21/2026,845 PM,MD,Garrett,Accident,4,E,39.62,-79.25,SNOW,3.3,Inch,Public,Storm Total Snow,NA,LWX,8:45 PM,2026-01-22T01:45:00Z
+1/22/2026,500 AM,MD,Garrett,Grantsville,4,E,39.69,-79.09,SNOW,2.5,Inch,Dept of Highways,Storm Total Snow,NA,LWX,5:00 AM,2026-01-22T10:00:00Z
+1/22/2026,500 AM,MD,Howard,Laurel,4,E,39.69,-79.09,SNOW,2.5,Inch,Dept of Highways,Storm Total Snow,NA,LWX,-I:00 AM,2026-01-22T10:00:00Z
