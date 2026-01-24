@@ -6,4 +6,3 @@ date,time,state,county,location,distance,direction,lat,lon,phenomenon,value,unit
 1/21/2026,936 PM,MD,Garrett,Accident,3,NNE,39.66,-79.3,SNOW,3.5,Inch,Dept of Highways,Storm Total Snow,NA,LWX,9:36 PM,2026-01-22T02:36:00Z
 1/21/2026,845 PM,MD,Garrett,Accident,4,E,39.62,-79.25,SNOW,3.3,Inch,Public,Storm Total Snow,NA,LWX,8:45 PM,2026-01-22T01:45:00Z
 1/22/2026,500 AM,MD,Garrett,Grantsville,4,E,39.69,-79.09,SNOW,2.5,Inch,Dept of Highways,Storm Total Snow,NA,LWX,5:00 AM,2026-01-22T10:00:00Z
-1/22/2026,500 AM,MD,Howard,Laurel,4,E,39.69,-79.09,SNOW,2.5,Inch,Dept of Highways,Storm Total Snow,NA,LWX,-I:00 AM,2026-01-22T10:00:00Z
