@@ -74,5 +74,3 @@ date,time,state,county,location,distance,direction,lat,lon,phenomenon,value,unit
 1/25/2026,620 AM,MD,Prince Georges,Greenbelt,1,SE,38.98,-76.87,SNOW,2,Inch,Trained Spotter,Storm Total Snow,NA,LWX,6:20 AM,2026-01-25T11:20:00Z
 1/25/2026,700 AM,MD,St. Marys,Ridge,1,E,38.12,-76.36,SNOW,2,Inch,Trained Spotter,Storm Total Snow,NA,LWX,7:00 AM,2026-01-25T12:00:00Z
 1/25/2026,446 AM,MD,Montgomery,Aspen Hill,2,E,39.09,-77.04,SNOW,1.7,Inch,Mesonet,Storm Total Snow,NA,LWX,9:46 AM,2026-01-25T09:46:00Z
-1/25/2026,344 AM,MD,Charles,La Plata,3,ENE,38.54,-76.91,SNOW,1.2,Inch,Trained Spotter,Storm Total Snow,NA,LWX,8:44 AM,2026-01-25T08:44:00Z
-1/25/2026,130 AM,MD,Charles,Tompkinsville,5,SSE,38.26,-76.85,SNOW,1,Inch,Public,Storm Total Snow,NA,LWX,6:30 AM,2026-01-25T06:30:00Z
