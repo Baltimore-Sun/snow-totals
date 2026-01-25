@@ -66,6 +66,8 @@ fetch_snowfall_data <- function(office_code, user_agent) {
   } else if (office_code == "PHI") {
     # PHI uses various patterns - check for any snowfall-related header
     header_pattern <- "SNOWFALL REPORTS|SNOW.*REPORTS|FREEZING RAIN REPORTS"
+  } else if (office_code == "AKQ") {
+    header_pattern <- "Spotter Reports|SNOWFALL REPORTS|SNOW.*REPORTS"
   } else {
     header_pattern <- "Spotter Reports"  # default
   }
@@ -134,11 +136,11 @@ fetch_snowfall_data <- function(office_code, user_agent) {
       show_col_types = FALSE
     )
   
-  # 5. Filter storm-total snowfall for MD only
+  # 5. Filter storm-total snowfall for MD only - now includes SNOW_24 and 24 hour snowfall
   snowfall_data <- metadata_df |>
     filter(
-      phenomenon == "SNOW",
-      description == "Storm Total Snow" | description == "Storm total snowfall",
+      phenomenon %in% c("SNOW", "SNOW_24"),
+      description %in% c("Storm Total Snow", "Storm total snowfall", "24 hour snowfall"),
       state == "MD"  # Only Maryland records
     ) |>
     mutate(
@@ -154,39 +156,47 @@ fetch_snowfall_data <- function(office_code, user_agent) {
 # Set up user agent
 ua <- user_agent("lwx-snowfall-r/1.0 (searley@baltsun.com)")
 
-# Fetch data from both offices
+# Fetch data from all three offices
 lwx_data <- fetch_snowfall_data("LWX", ua)
 phi_data <- fetch_snowfall_data("PHI", ua)
+akq_data <- fetch_snowfall_data("AKQ", ua)
 
-# Combine data from both offices
-# Only include PHI data if it has MD records
-if (is.null(phi_data) || nrow(phi_data) == 0) {
-  snowfall_totals <- lwx_data
-  cat("Note: No MD records found from PHI, using LWX data only\n")
-} else if (is.null(lwx_data) || nrow(lwx_data) == 0) {
-  snowfall_totals <- phi_data
-  cat("Note: No MD records found from LWX, using PHI data only\n")
-} else {
-  snowfall_totals <- bind_rows(lwx_data, phi_data)
-  cat("Note: Combined data from both LWX and PHI\n")
+# Combine data from all offices
+# Start with an empty list to collect non-null data
+data_list <- list()
+
+if (!is.null(lwx_data) && nrow(lwx_data) > 0) {
+  data_list <- append(data_list, list(lwx_data))
 }
 
-# Ensure we have some data
-if (is.null(snowfall_totals) || nrow(snowfall_totals) == 0) {
-  stop("No MD snowfall data found from either LWX or PHI offices")
+if (!is.null(phi_data) && nrow(phi_data) > 0) {
+  data_list <- append(data_list, list(phi_data))
 }
+
+if (!is.null(akq_data) && nrow(akq_data) > 0) {
+  data_list <- append(data_list, list(akq_data))
+}
+
+# Check if we have any data
+if (length(data_list) == 0) {
+  stop("No MD snowfall data found from LWX, PHI, or AKQ offices")
+}
+
+# Combine all available data
+snowfall_totals <- bind_rows(data_list)
 
 snowfall_totals <- snowfall_totals |>
   arrange(desc(value))
 
 # Check if we got any data
 if (nrow(snowfall_totals) == 0) {
-  stop("No snowfall data found from either LWX or PHI offices")
+  stop("No snowfall data found from LWX, PHI, or AKQ offices")
 }
 
 cat("\nTotal MD snowfall records found:", nrow(snowfall_totals), "\n")
 cat("From LWX:", ifelse(is.null(lwx_data), 0, nrow(lwx_data)), "\n")
-cat("From PHI:", ifelse(is.null(phi_data), 0, nrow(phi_data)), "\n\n")
+cat("From PHI:", ifelse(is.null(phi_data), 0, nrow(phi_data)), "\n")
+cat("From AKQ:", ifelse(is.null(akq_data), 0, nrow(akq_data)), "\n\n")
 
 # Add POSIXct datetime column
 snowfall_totals$time_fixed <- str_replace(
@@ -203,14 +213,14 @@ snowfall_totals$datetime <- mdy_hm(
 #COMMENTING OUT -- TIMES SEEM TO BE CONVERTING WRONG
 #rescue recent_lastrun records whose locations aren't in snowfall_totals
 #rows_to_add <- recent_lastrun %>%
- # anti_join(
-    #snowfall_totals,
-    #by = c("location", "county")
- # )
+# anti_join(
+#snowfall_totals,
+#by = c("location", "county")
+# )
 
 #snowfall_totals <- bind_rows(
-  #snowfall_totals,
-  #rows_to_add
+#snowfall_totals,
+#rows_to_add
 #)
 
 
