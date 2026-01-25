@@ -200,18 +200,18 @@ snowfall_totals$datetime <- mdy_hm(
   tz = "America/New_York"
 )
 
-
+#COMMENTING OUT -- TIMES SEEM TO BE CONVERTING WRONG
 #rescue recent_lastrun records whose locations aren't in snowfall_totals
-rows_to_add <- recent_lastrun %>%
-  anti_join(
-    snowfall_totals,
-    by = c("location", "county")
-  )
+#rows_to_add <- recent_lastrun %>%
+ # anti_join(
+    #snowfall_totals,
+    #by = c("location", "county")
+ # )
 
-snowfall_totals <- bind_rows(
-  snowfall_totals,
-  rows_to_add
-)
+#snowfall_totals <- bind_rows(
+  #snowfall_totals,
+  #rows_to_add
+#)
 
 
 
