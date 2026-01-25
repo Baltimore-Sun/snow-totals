@@ -100,13 +100,3 @@ date,time,state,county,location,distance,direction,lat,lon,phenomenon,value,unit
 1/25/2026,815 AM,MD,Anne Arundel,Eastport,1,SSW,38.96,-76.49,SNOW,4.2,Inch,Trained Spotter,Storm Total Snow,NA,LWX,8:15 AM,2026-01-25T13:15:00Z
 1/25/2026,915 AM,MD,Calvert,Huntingtown,NA,NA,38.62,-76.61,SNOW,4,Inch,Amateur Radio,Storm Total Snow,NA,LWX,9:15 AM,2026-01-25T14:15:00Z
 1/25/2026,915 AM,MD,St. Marys,Mechanicsville,NA,NA,38.43,-76.73,SNOW,3.5,Inch,Amateur Radio,Storm Total Snow,NA,LWX,9:15 AM,2026-01-25T14:15:00Z
-1/25/2026,801 AM,MD,Frederick,Braddock Heights,2,ENE,39.43,-77.47,SNOW,6.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,1:01 PM,2026-01-25T13:01:00Z
-1/25/2026,759 AM,MD,Anne Arundel,Chelsea Beach,NA,NA,39.1,-76.53,SNOW,5.3,Inch,Trained Spotter,Storm Total Snow,NA,LWX,12:59 PM,2026-01-25T12:59:00Z
-1/25/2026,800 AM,MD,Anne Arundel,Crownsville,3,SSW,38.98,-76.62,SNOW,5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,1:00 PM,2026-01-25T13:00:00Z
-1/25/2026,800 AM,MD,Garrett,Mount Savage,4,WNW,39.71,-78.95,SNOW,5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,1:00 PM,2026-01-25T13:00:00Z
-1/25/2026,745 AM,MD,Montgomery,Rockville,1,SSE,39.07,-77.15,SNOW,5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,12:45 PM,2026-01-25T12:45:00Z
-1/25/2026,735 AM,MD,Baltimore,Carney,1,SE,39.39,-76.51,SNOW,4.8,Inch,Trained Spotter,Storm Total Snow,NA,LWX,12:35 PM,2026-01-25T12:35:00Z
-1/25/2026,754 AM,MD,Montgomery,Garrett Park,1,WSW,39.03,-77.12,SNOW,4.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,12:54 PM,2026-01-25T12:54:00Z
-1/25/2026,800 AM,MD,Montgomery,Silver Spring,1,ESE,38.99,-77.03,SNOW,4,Inch,NWS Employee,Storm Total Snow,NA,LWX,1:00 PM,2026-01-25T13:00:00Z
-1/25/2026,728 AM,MD,Charles,Welcome,1,WNW,38.49,-77.13,SNOW,2.1,Inch,Trained Spotter,Storm Total Snow,NA,LWX,12:28 PM,2026-01-25T12:28:00Z
-1/25/2026,446 AM,MD,Montgomery,Aspen Hill,2,E,39.09,-77.04,SNOW,1.7,Inch,Mesonet,Storm Total Snow,NA,LWX,9:46 AM,2026-01-25T09:46:00Z
