@@ -29,7 +29,7 @@ current_utc <- with_tz(Sys.time(), tzone = "UTC")
 
 # Step 4: Filter last X hours **** CHANGE NUMBER OF HOURS HERE ****
 recent_lastrun <- lastrun %>%
-  filter(difftime(current_utc, datetime_utc, units = "hours") <= 9)
+  filter(difftime(current_utc, datetime_utc, units = "hours") <= 4)
 
 #match columns and time format for later merge
 recent_lastrun <- recent_lastrun %>%
