@@ -205,10 +205,18 @@ snowfall_totals$time_fixed <- str_replace(
   "\\1:\\2"
 )
 
+# Parse datetime, handling both formats with and without leading space
 snowfall_totals$datetime <- mdy_hm(
-  paste(snowfall_totals$date, snowfall_totals$time_fixed),
+  paste(snowfall_totals$date, str_trim(snowfall_totals$time_fixed)),
   tz = "America/New_York"
 )
+
+# Debug: check for any NA datetimes
+if (any(is.na(snowfall_totals$datetime))) {
+  cat("Warning: Some datetimes failed to parse\n")
+  cat("Sample problematic entries:\n")
+  print(head(snowfall_totals[is.na(snowfall_totals$datetime), c("date", "time", "time_fixed")]))
+}
 
 #COMMENTING OUT -- TIMES SEEM TO BE CONVERTING WRONG
 #rescue recent_lastrun records whose locations aren't in snowfall_totals
@@ -225,12 +233,22 @@ snowfall_totals$datetime <- mdy_hm(
 
 
 
-# Export complete data as CSV
+# Export complete data as CSV (before time filter)
 write_csv(snowfall_totals, "snowfall_totals.csv")
 
+# Filter out records before 11 AM EST on Jan 25, 2026
+cutoff_time <- as.POSIXct("2026-01-25 11:00:00", tz = "America/New_York")
 
+cat("\nFiltering records before 11 AM EST Jan 25, 2026\n")
+cat("Cutoff time:", format(cutoff_time, "%Y-%m-%d %I:%M %p %Z"), "\n")
+cat("Records before filter:", nrow(snowfall_totals), "\n")
 
-#construct map data
+snowfall_totals <- snowfall_totals %>%
+  filter(datetime >= cutoff_time)
+
+cat("Records after 11 AM EST Jan 25 filter:", nrow(snowfall_totals), "\n\n")
+
+#construct map data (using filtered data)
 date_parsed <- as.Date(snowfall_totals$date, format = "%m/%d/%Y")
 
 time_display <- paste0(
