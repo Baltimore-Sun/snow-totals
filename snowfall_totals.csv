@@ -1,10 +1,12 @@
 date,time,state,county,location,distance,direction,lat,lon,phenomenon,value,unit,source,description,X15,office,time_fixed,datetime
+1/25/2026,1055 AM,MD,Howard,Simpsonville,2,NNW,39.21,-76.89,SNOW,8.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,10:55 AM,2026-01-25T15:55:00Z
+1/25/2026,1103 AM,MD,Baltimore,Edgemere,NA,SE,39.22,-76.46,SNOW,7.9,Inch,Trained Spotter,Storm Total Snow,NA,LWX,11:03 AM,2026-01-25T16:03:00Z
 1/25/2026,1012 AM,MD,Anne Arundel,Savage,3,SSE,39.1,-76.81,SNOW,7.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,10:12 AM,2026-01-25T15:12:00Z
 1/25/2026,1025 AM,MD,Anne Arundel,Pasadena,1,ENE,39.12,-76.54,SNOW,7.3,Inch,Trained Spotter,Storm Total Snow,NA,LWX,10:25 AM,2026-01-25T15:25:00Z
 1/25/2026,1004 AM,MD,Garrett,Accident,4,E,39.62,-79.25,SNOW,7.3,Inch,Public,Storm Total Snow,NA,LWX,10:04 AM,2026-01-25T15:04:00Z
+1/25/2026,1100 AM,MD,Howard,Gaither,2,SE,39.35,-76.97,SNOW,7.3,Inch,Trained Spotter,Storm Total Snow,NA,LWX,11:00 AM,2026-01-25T16:00:00Z
 1/25/2026,934 AM,MD,Harford,West Friendship,2,NW,39.32,-76.98,SNOW,7.2,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:34 AM,2026-01-25T14:34:00Z
 1/25/2026,955 AM,MD,Baltimore,Long Green,2,NW,39.49,-76.54,SNOW,7,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:55 AM,2026-01-25T14:55:00Z
-1/25/2026,910 AM,MD,Baltimore,Edgemere,NA,SE,39.22,-76.46,SNOW,7,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:10 AM,2026-01-25T14:10:00Z
 1/25/2026,950 AM,MD,Baltimore,Cockeysville,2,NNW,39.5,-76.64,SNOW,7,Inch,Broadcast Media,Storm Total Snow,NA,LWX,9:50 AM,2026-01-25T14:50:00Z
 1/25/2026,1011 AM,MD,Baltimore,Reisterstown,1,NE,39.46,-76.8,SNOW,7,Inch,Trained Spotter,Storm Total Snow,NA,LWX,10:11 AM,2026-01-25T15:11:00Z
 1/25/2026,945 AM,MD,Baltimore,Perry Hall,1,NNE,39.42,-76.47,SNOW,7,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:45 AM,2026-01-25T14:45:00Z
@@ -15,14 +17,17 @@ date,time,state,county,location,distance,direction,lat,lon,phenomenon,value,unit
 1/25/2026,1000 AM,MD,Harford,Bel Air,3,SSE,39.49,-76.33,SNOW,7,Inch,Trained Spotter,Storm Total Snow,NA,LWX,10:00 AM,2026-01-25T15:00:00Z
 1/25/2026,930 AM,MD,Montgomery,Wheaton,1,ESE,39.03,-77.03,SNOW,7,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:30 AM,2026-01-25T14:30:00Z
 1/25/2026,1010 AM,MD,Baltimore,Upper Falls,2,SW,39.41,-76.43,SNOW,6.8,Inch,Trained Spotter,Storm Total Snow,NA,LWX,10:10 AM,2026-01-25T15:10:00Z
-1/25/2026,930 AM,MD,Howard,Gaither,2,SE,39.35,-76.97,SNOW,6.8,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:30 AM,2026-01-25T14:30:00Z
+1/25/2026,1100 AM,MD,Washington,Boonsboro,3,NNE,39.55,-77.64,SNOW,6.8,Inch,Trained Spotter,Storm Total Snow,NA,LWX,11:00 AM,2026-01-25T16:00:00Z
+1/25/2026,1121 AM,MD,Baltimore City,Park Heights,2,W,39.34,-76.65,SNOW,6.7,Inch,Broadcast Media,Storm Total Snow,NA,LWX,11:21 AM,2026-01-25T16:21:00Z
 1/25/2026,920 AM,MD,Harford,Darlington,1,NW,39.65,-76.22,SNOW,6.7,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:20 AM,2026-01-25T14:20:00Z
 1/25/2026,921 AM,MD,Howard,Columbia,NA,NA,39.2,-76.85,SNOW,6.7,Inch,NWS Employee,Storm Total Snow,NA,LWX,9:21 AM,2026-01-25T14:21:00Z
 1/25/2026,905 AM,MD,Montgomery,Damascus,3,SSW,39.26,-77.23,SNOW,6.7,Inch,Co-Op Observer,Storm Total Snow,NA,LWX,9:05 AM,2026-01-25T14:05:00Z
 1/25/2026,1025 AM,MD,Washington,Hancock,1,ESE,39.7,-78.16,SNOW,6.7,Inch,Trained Spotter,Storm Total Snow,NA,LWX,10:25 AM,2026-01-25T15:25:00Z
+1/25/2026,930 AM,MD,Baltimore,Mcdonogh,1,W,39.39,-76.79,SNOW,6.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:30 AM,2026-01-25T14:30:00Z
 1/25/2026,920 AM,MD,Baltimore,Reistertown,2,NW,39.5,-76.84,SNOW,6.5,Inch,Co-Op Observer,Storm Total Snow,NA,LWX,9:20 AM,2026-01-25T14:20:00Z
 1/25/2026,942 AM,MD,Baltimore City,Pikesville,2,SSE,39.36,-76.69,SNOW,6.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:42 AM,2026-01-25T14:42:00Z
 1/25/2026,900 AM,MD,Carroll,Westminster,NA,NA,39.58,-77.01,SNOW,6.5,Inch,Emergency Mngr,Storm Total Snow,NA,LWX,9:00 AM,2026-01-25T14:00:00Z
+1/25/2026,1100 AM,MD,Charles,Hughesville,NA,NA,38.54,-76.78,SNOW,6.5,Inch,Amateur Radio,Storm Total Snow,NA,LWX,11:00 AM,2026-01-25T16:00:00Z
 1/25/2026,931 AM,MD,Frederick,New Market,NA,N,39.39,-77.27,SNOW,6.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:31 AM,2026-01-25T14:31:00Z
 1/25/2026,1020 AM,MD,Frederick,Cavetown,3,ESE,39.63,-77.54,SNOW,6.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,10:20 AM,2026-01-25T15:20:00Z
 1/25/2026,950 AM,MD,Frederick,Bloomfield,2,WSW,39.46,-77.46,SNOW,6.5,Inch,NWS Employee,Storm Total Snow,NA,LWX,9:50 AM,2026-01-25T14:50:00Z
@@ -32,24 +37,24 @@ date,time,state,county,location,distance,direction,lat,lon,phenomenon,value,unit
 1/25/2026,915 AM,MD,Montgomery,Clarksburg,NA,NA,39.24,-77.28,SNOW,6.5,Inch,Emergency Mngr,Storm Total Snow,NA,LWX,9:15 AM,2026-01-25T14:15:00Z
 1/25/2026,952 AM,MD,Montgomery,Washington Grove,1,N,39.15,-77.17,SNOW,6.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:52 AM,2026-01-25T14:52:00Z
 1/25/2026,1030 AM,MD,Washington,Maugansville,NA,WSW,39.69,-77.75,SNOW,6.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,10:30 AM,2026-01-25T15:30:00Z
-1/25/2026,830 AM,MD,Montgomery,Washington Grove,1,NE,39.15,-77.16,SNOW,6.4,Inch,Trained Spotter,Storm Total Snow,NA,LWX,8:30 AM,2026-01-25T13:30:00Z
-1/25/2026,1023 AM,MD,Baltimore City,Park Heights,2,W,39.33,-76.65,SNOW,6.3,Inch,Broadcast Media,Storm Total Snow,NA,LWX,10:23 AM,2026-01-25T15:23:00Z
+1/25/2026,1130 AM,MD,Allegany,Frostburg,2,ENE,39.66,-78.9,SNOW,6.4,Inch,Trained Spotter,Storm Total Snow,NA,LWX,11:30 AM,2026-01-25T16:30:00Z
 1/25/2026,950 AM,MD,Frederick,Clifton,2,NNE,39.45,-77.47,SNOW,6.3,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:50 AM,2026-01-25T14:50:00Z
-1/25/2026,815 AM,MD,Frederick,Brunswick,NA,NA,39.31,-77.62,SNOW,6.3,Inch,Trained Spotter,Storm Total Snow,NA,LWX,8:15 AM,2026-01-25T13:15:00Z
 1/25/2026,1000 AM,MD,Harford,Chrome Hill,2,SE,39.6,-76.39,SNOW,6.3,Inch,Trained Spotter,Storm Total Snow,NA,LWX,10:00 AM,2026-01-25T15:00:00Z
 1/25/2026,1000 AM,MD,Carroll,Gamber,1,WNW,39.47,-76.95,SNOW,6.2,Inch,CoCoRaHS,Storm Total Snow,NA,LWX,10:00 AM,2026-01-25T15:00:00Z
 1/25/2026,930 AM,MD,Frederick,Point of Rocks,1,NE,39.28,-77.53,SNOW,6.2,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:30 AM,2026-01-25T14:30:00Z
 1/25/2026,1030 AM,MD,Howard,Elkridge,2,ESE,39.19,-76.72,SNOW,6.2,Inch,Trained Spotter,Storm Total Snow,NA,LWX,10:30 AM,2026-01-25T15:30:00Z
 1/25/2026,900 AM,MD,Anne Arundel,Baltmore-Washington Airport,2,WNW,39.18,-76.7,SNOW,6,Inch,NWS Employee,Storm Total Snow,NA,LWX,9:00 AM,2026-01-25T14:00:00Z
 1/25/2026,900 AM,MD,Baltimore,Catonsville,1,SSE,39.24,-76.73,SNOW,6,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:00 AM,2026-01-25T14:00:00Z
+1/25/2026,1100 AM,MD,Calvert,Lower Marlboro,NA,NA,38.66,-76.68,SNOW,6,Inch,Amateur Radio,Storm Total Snow,NA,LWX,11:00 AM,2026-01-25T16:00:00Z
 1/25/2026,1030 AM,MD,Carroll,Eldersburg,1,ESE,39.4,-76.93,SNOW,6,Inch,Trained Spotter,Storm Total Snow,NA,LWX,10:30 AM,2026-01-25T15:30:00Z
 1/25/2026,915 AM,MD,Frederick,Ballenger Creek,NA,W,39.37,-77.44,SNOW,6,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:15 AM,2026-01-25T14:15:00Z
-1/25/2026,1000 AM,MD,Frederick,Thurmont,1,NE,39.63,-77.4,SNOW,6,Inch,Trained Spotter,Storm Total Snow,NA,LWX,10:00 AM,2026-01-25T15:00:00Z
 1/25/2026,934 AM,MD,Frederick,Thurmont,1,SSE,39.61,-77.4,SNOW,6,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:34 AM,2026-01-25T14:34:00Z
+1/25/2026,1000 AM,MD,Frederick,Thurmont,1,NE,39.63,-77.4,SNOW,6,Inch,Trained Spotter,Storm Total Snow,NA,LWX,10:00 AM,2026-01-25T15:00:00Z
 1/25/2026,950 AM,MD,Frederick,Frederick,1,SE,39.42,-77.4,SNOW,6,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:50 AM,2026-01-25T14:50:00Z
 1/25/2026,900 AM,MD,Frederick,Adamstown,1,ESE,39.31,-77.46,SNOW,6,Inch,NWS Employee,Storm Total Snow,NA,LWX,9:00 AM,2026-01-25T14:00:00Z
 1/25/2026,908 AM,MD,Harford,Bel Air,2,NE,39.55,-76.33,SNOW,6,Inch,Broadcast Media,Storm Total Snow,NA,LWX,9:08 AM,2026-01-25T14:08:00Z
 1/25/2026,945 AM,MD,Harford,Forest Hill,2,SW,39.56,-76.42,SNOW,6,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:45 AM,2026-01-25T14:45:00Z
+1/25/2026,1100 AM,MD,Howard,Gaither,2,SSW,39.33,-77.01,SNOW,6,Inch,Trained Spotter,Storm Total Snow,NA,LWX,11:00 AM,2026-01-25T16:00:00Z
 1/25/2026,900 AM,MD,Howard,Simpsonville,1,N,39.2,-76.88,SNOW,6,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:00 AM,2026-01-25T14:00:00Z
 1/25/2026,915 AM,MD,Montgomery,Gaithersburg,NA,NA,39.14,-77.22,SNOW,6,Inch,Emergency Mngr,Storm Total Snow,NA,LWX,9:15 AM,2026-01-25T14:15:00Z
 1/25/2026,900 AM,MD,Montgomery,Olney,NA,NA,39.15,-77.08,SNOW,6,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:00 AM,2026-01-25T14:00:00Z
@@ -58,13 +63,13 @@ date,time,state,county,location,distance,direction,lat,lon,phenomenon,value,unit
 1/25/2026,915 AM,MD,Prince Georges,Forestville,NA,NA,38.85,-76.87,SNOW,6,Inch,Amateur Radio,Storm Total Snow,NA,LWX,9:15 AM,2026-01-25T14:15:00Z
 1/25/2026,900 AM,MD,Harford,Bel Air,1,NNE,39.54,-76.34,SNOW,5.8,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:00 AM,2026-01-25T14:00:00Z
 1/25/2026,1015 AM,MD,Montgomery,Boyds,1,SE,39.17,-77.3,SNOW,5.8,Inch,Trained Spotter,Storm Total Snow,NA,LWX,10:15 AM,2026-01-25T15:15:00Z
-1/25/2026,900 AM,MD,Howard,Gaither,2,SSW,39.33,-77.01,SNOW,5.7,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:00 AM,2026-01-25T14:00:00Z
 1/25/2026,920 AM,MD,Howard,Simpsonville,1,W,39.19,-76.91,SNOW,5.7,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:20 AM,2026-01-25T14:20:00Z
 1/25/2026,851 AM,MD,Montgomery,Laytonsville,2,WNW,39.22,-77.19,SNOW,5.7,Inch,Trained Spotter,Storm Total Snow,NA,LWX,8:51 AM,2026-01-25T13:51:00Z
 1/25/2026,905 AM,MD,Howard,Elkridge,2,WSW,39.2,-76.79,SNOW,5.6,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:05 AM,2026-01-25T14:05:00Z
 1/25/2026,1045 AM,MD,Anne Arundel,Churchton,1,ENE,38.8,-76.52,SNOW,5.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,10:45 AM,2026-01-25T15:45:00Z
 1/25/2026,840 AM,MD,Anne Arundel,Severn,2,W,39.14,-76.72,SNOW,5.5,Inch,CoCoRaHS,Storm Total Snow,NA,LWX,8:40 AM,2026-01-25T13:40:00Z
 1/25/2026,931 AM,MD,Carroll,Greenmount,1,ENE,39.63,-76.84,SNOW,5.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:31 AM,2026-01-25T14:31:00Z
+1/25/2026,1115 AM,MD,Cecil,Rock Springs,1,ESE,39.71,-76.14,SNOW,5.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,11:15 AM,2026-01-25T16:15:00Z
 1/25/2026,835 AM,MD,Frederick,Mount Airy,1,SW,39.37,-77.17,SNOW,5.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,8:35 AM,2026-01-25T13:35:00Z
 1/25/2026,1002 AM,MD,Frederick,Bloomfield,2,ESE,39.46,-77.39,SNOW,5.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,10:02 AM,2026-01-25T15:02:00Z
 1/25/2026,845 AM,MD,Howard,Ilchester,1,W,39.25,-76.79,SNOW,5.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,8:45 AM,2026-01-25T13:45:00Z
@@ -76,7 +81,6 @@ date,time,state,county,location,distance,direction,lat,lon,phenomenon,value,unit
 1/25/2026,915 AM,MD,Montgomery,Potomac,NA,NA,39.03,-77.2,SNOW,5.4,Inch,Mesonet,Storm Total Snow,NA,LWX,9:15 AM,2026-01-25T14:15:00Z
 1/25/2026,900 AM,MD,Harford,Gaither,2,SSE,39.33,-76.98,SNOW,5.2,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:00 AM,2026-01-25T14:00:00Z
 1/25/2026,1041 AM,MD,Baltimore,Glyndon,1,WSW,39.47,-76.83,SNOW,5.1,Inch,Trained Spotter,Storm Total Snow,NA,LWX,10:41 AM,2026-01-25T15:41:00Z
-1/25/2026,830 AM,MD,Howard,Highland,2,WNW,39.18,-76.99,SNOW,5.1,Inch,NWS Employee,Storm Total Snow,NA,LWX,8:30 AM,2026-01-25T13:30:00Z
 1/25/2026,910 AM,MD,Howard,Laurel,3,NNE,39.13,-76.84,SNOW,5.1,Inch,CoCoRaHS,Storm Total Snow,NA,LWX,9:10 AM,2026-01-25T14:10:00Z
 1/25/2026,859 AM,MD,Anne Arundel,Annapolis,NA,NA,38.97,-76.5,SNOW,5,Inch,Emergency Mngr,Storm Total Snow,NA,LWX,8:59 AM,2026-01-25T13:59:00Z
 1/25/2026,920 AM,MD,Baltimore,North Point State Park,2,ENE,39.23,-76.4,SNOW,5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:20 AM,2026-01-25T14:20:00Z
@@ -85,18 +89,14 @@ date,time,state,county,location,distance,direction,lat,lon,phenomenon,value,unit
 1/25/2026,1053 AM,MD,Carroll,Manchester,2,NW,39.68,-76.92,SNOW,5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,10:53 AM,2026-01-25T15:53:00Z
 1/25/2026,953 AM,MD,Carroll,Westminster,NA,SE,39.58,-77,SNOW,5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:53 AM,2026-01-25T14:53:00Z
 1/25/2026,915 AM,MD,Montgomery,Colesville,2,W,39.09,-77.04,SNOW,5,Inch,Mesonet,Storm Total Snow,NA,LWX,9:15 AM,2026-01-25T14:15:00Z
-1/25/2026,830 AM,MD,Montgomery,Norbeck,1,ESE,39.1,-77.06,SNOW,5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,8:30 AM,2026-01-25T13:30:00Z
+1/25/2026,1100 AM,MD,Prince Georges,Marlton,1,WSW,38.75,-76.81,SNOW,5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,11:00 AM,2026-01-25T16:00:00Z
 1/25/2026,900 AM,MD,Prince Georges,College Park,1,S,38.98,-76.93,SNOW,4.9,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:00 AM,2026-01-25T14:00:00Z
 1/25/2026,856 AM,MD,Allegany,Frostburg,NA,NA,39.66,-78.94,SNOW,4.8,Inch,Co-Op Observer,Storm Total Snow,NA,LWX,8:56 AM,2026-01-25T13:56:00Z
 1/25/2026,859 AM,MD,Baltimore,Bentley Springs,1,SE,39.66,-76.65,SNOW,4.8,Inch,Trained Spotter,Storm Total Snow,NA,LWX,8:59 AM,2026-01-25T13:59:00Z
 1/25/2026,900 AM,MD,Carroll,Uniontown,3,N,39.63,-77.12,SNOW,4.8,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:00 AM,2026-01-25T14:00:00Z
 1/25/2026,915 AM,MD,Montgomery,Poolesville,NA,NA,39.14,-77.41,SNOW,4.8,Inch,Mesonet,Storm Total Snow,NA,LWX,9:15 AM,2026-01-25T14:15:00Z
 1/25/2026,856 AM,MD,Montgomery,Bethesda,1,NNW,39,-77.12,SNOW,4.8,Inch,Trained Spotter,Storm Total Snow,NA,LWX,8:56 AM,2026-01-25T13:56:00Z
-1/25/2026,830 AM,MD,Prince Georges,Bowie,2,SSE,38.94,-76.73,SNOW,4.6,Inch,NWS Employee,Storm Total Snow,NA,LWX,8:30 AM,2026-01-25T13:30:00Z
 1/25/2026,900 AM,MD,Anne Arundel,Riva,2,NW,38.96,-76.62,SNOW,4.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:00 AM,2026-01-25T14:00:00Z
-1/25/2026,1000 AM,MD,Cecil,Rock Springs,1,ESE,39.71,-76.14,SNOW,4.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,10:00 AM,2026-01-25T15:00:00Z
-1/25/2026,900 AM,MD,Prince Georges,Marlton,1,WSW,38.75,-76.81,SNOW,4.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:00 AM,2026-01-25T14:00:00Z
-1/25/2026,807 AM,MD,Prince Georges,Hyattsville,NA,NA,38.89,-76.87,SNOW,4.3,Inch,Emergency Mngr,Storm Total Snow,NA,LWX,8:07 AM,2026-01-25T13:07:00Z
-1/25/2026,815 AM,MD,Anne Arundel,Eastport,1,SSW,38.96,-76.49,SNOW,4.2,Inch,Trained Spotter,Storm Total Snow,NA,LWX,8:15 AM,2026-01-25T13:15:00Z
-1/25/2026,915 AM,MD,Calvert,Huntingtown,NA,NA,38.62,-76.61,SNOW,4,Inch,Amateur Radio,Storm Total Snow,NA,LWX,9:15 AM,2026-01-25T14:15:00Z
+1/25/2026,1100 AM,MD,Calvert,Lusby,NA,ENE,38.41,-76.46,SNOW,4.5,Inch,Amateur Radio,Storm Total Snow,NA,LWX,11:00 AM,2026-01-25T16:00:00Z
+1/25/2026,1100 AM,MD,Calvert,Huntingtown,NA,NA,38.62,-76.61,SNOW,4.5,Inch,Amateur Radio,Storm Total Snow,NA,LWX,11:00 AM,2026-01-25T16:00:00Z
 1/25/2026,915 AM,MD,St. Marys,Mechanicsville,NA,NA,38.43,-76.73,SNOW,3.5,Inch,Amateur Radio,Storm Total Snow,NA,LWX,9:15 AM,2026-01-25T14:15:00Z
