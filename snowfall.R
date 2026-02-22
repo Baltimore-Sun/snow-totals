@@ -9,7 +9,7 @@ library(lubridate)
 
 
 #import last run so can keep data for locations that aren't in latest update
-lastrun <- read_csv("snowfall_totals.csv")
+lastrun <- read_csv("snowfall_totals_0222.csv")
 
 #REMOVE FROM LASTRUN RECORDS THAT ARE MORE THAN X HOURS OLD
 lastrun <- lastrun %>%
