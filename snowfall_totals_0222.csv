@@ -1,1 +1,2 @@
 date,time,state,county,location,distance,direction,lat,lon,phenomenon,value,unit,source,description,X15,office,time_fixed,datetime
+1/26/2026,900 AM,MD,Frederick,Sabillasville,2,SSE,39.68,-77.44,SNOW,13,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:00 AM,2026-01-26T14:00:00Z
