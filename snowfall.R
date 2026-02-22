@@ -29,7 +29,7 @@ current_utc <- with_tz(Sys.time(), tzone = "UTC")
 
 # Step 4: Filter last X hours **** CHANGE NUMBER OF HOURS HERE ****
 recent_lastrun <- lastrun %>%
-  filter(difftime(current_utc, datetime_utc, units = "hours") <= 4)
+  filter(difftime(current_utc, datetime_utc, units = "hours") <= 36)
 
 #match columns and time format for later merge
 recent_lastrun <- recent_lastrun %>%
@@ -234,19 +234,19 @@ if (any(is.na(snowfall_totals$datetime))) {
 
 
 # Export complete data as CSV (before time filter)
-write_csv(snowfall_totals, "snowfall_totals.csv")
+write_csv(snowfall_totals, "snowfall_totals_0222.csv")
 
-# Filter out records before 3 PM EST on Jan 25, 2026
-cutoff_time <- as.POSIXct("2026-01-25 15:00:00", tz = "America/New_York")
+# Filter out records before 5 AM EST on Feb 22, 2026
+cutoff_time <- as.POSIXct("2026-02-22 05:00:00", tz = "America/New_York")
 
-cat("\nFiltering records before 3 PM EST Jan 25, 2026\n")
+cat("\nFiltering records before 5 AM EST on Feb 22, 2026\n")
 cat("Cutoff time:", format(cutoff_time, "%Y-%m-%d %I:%M %p %Z"), "\n")
 cat("Records before filter:", nrow(snowfall_totals), "\n")
 
 snowfall_totals <- snowfall_totals %>%
   filter(datetime >= cutoff_time)
 
-cat("Records after 3 PM EST Jan 25 filter:", nrow(snowfall_totals), "\n\n")
+cat("Records after 5 AM EST Feb 22 filter:", nrow(snowfall_totals), "\n\n")
 
 #construct map data (using filtered data)
 date_parsed <- as.Date(snowfall_totals$date, format = "%m/%d/%Y")
@@ -285,4 +285,4 @@ mapdata <- data.frame(
 )
 
 
-write_csv(mapdata,"mapdata.csv")
+write_csv(mapdata,"mapdata_0222.csv")
