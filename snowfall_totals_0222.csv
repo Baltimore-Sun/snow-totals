@@ -24,6 +24,7 @@ date,time,state,county,location,distance,direction,lat,lon,phenomenon,value,unit
 2/23/2026,615 AM,MD,Carroll,Westminster,6,NE,39.64,-76.93,SNOW,4.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,6:15 AM,2026-02-23T11:15:00Z
 2/23/2026,625 AM,MD,Carroll,Uniontown,3,N,39.63,-77.12,SNOW,4.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,6:25 AM,2026-02-23T11:25:00Z
 2/23/2026,700 AM,MD,Garrett,Deer Park,6,NE,39.49,-79.26,SNOW,4.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,7:00 AM,2026-02-23T12:00:00Z
+2/23/2026,0700 AM,MD,Talbot,Easton 0.9 SSE,NA,NA,38.7618,-76.0664,SNOW_24,4.5,Inch,COCORAHS,24 hour snowfall,NA,PHI,07:00 AM,2026-02-23T12:00:00Z
 2/23/2026,555 AM,MD,Cecil,Rock Springs,1,ESE,39.71,-76.14,SNOW,4.3,Inch,Trained Spotter,Storm Total Snow,NA,LWX,5:55 AM,2026-02-23T10:55:00Z
 2/23/2026,700 AM,MD,Harford,Forest Hill,2,SW,39.56,-76.42,SNOW,4.2,Inch,Trained Spotter,Storm Total Snow,NA,LWX,7:00 AM,2026-02-23T12:00:00Z
 2/23/2026,640 AM,MD,Montgomery,Washington Grove,1,N,39.15,-77.17,SNOW,4.2,Inch,Trained Spotter,Storm Total Snow,NA,LWX,6:40 AM,2026-02-23T11:40:00Z
@@ -36,6 +37,7 @@ date,time,state,county,location,distance,direction,lat,lon,phenomenon,value,unit
 2/23/2026,545 AM,MD,Howard,Dayton,1,NE,39.25,-76.98,SNOW,4,Inch,Dept of Highways,Storm Total Snow,NA,LWX,5:45 AM,2026-02-23T10:45:00Z
 2/23/2026,645 AM,MD,Carroll,Westminster,NA,SE,39.58,-77,SNOW,3.9,Inch,Trained Spotter,Storm Total Snow,NA,LWX,6:45 AM,2026-02-23T11:45:00Z
 2/23/2026,700 AM,MD,Montgomery,Norbeck,1,ESE,39.1,-77.06,SNOW,3.9,Inch,Trained Spotter,Storm Total Snow,NA,LWX,7:00 AM,2026-02-23T12:00:00Z
+2/23/2026,0755 AM,MD,Kent,Chestertown,NA,NA,39.21173630245576,-76.07093264165843,SNOW_24,3.9,Inch,Trained Spotter,24 hour snowfall,NA,PHI,07:55 AM,2026-02-23T12:55:00Z
 2/23/2026,445 AM,MD,Montgomery,Four Corners,1,ESE,39.02,-77,SNOW,3.8,Inch,Trained Spotter,Storm Total Snow,NA,LWX,4:45 AM,2026-02-23T09:45:00Z
 2/23/2026,544 AM,MD,Anne Arundel,Parole,NA,NA,38.99,-76.55,SNOW,3.5,Inch,Dept of Highways,Storm Total Snow,NA,LWX,5:44 AM,2026-02-23T10:44:00Z
 2/23/2026,454 AM,MD,Howard,Gaither,2,SSW,39.33,-77.01,SNOW,3.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,4:54 AM,2026-02-23T09:54:00Z
