@@ -1,4 +1,5 @@
 date,time,state,county,location,distance,direction,lat,lon,phenomenon,value,unit,source,description,X15,office,time_fixed,datetime
+2/22/2026,0800 PM,MD,Caroline,2 SSE Griffin,NA,NA,38.83330360000642,-75.90284681688195,SNOW_24,4.5,Inch,Trained Spotter,24 hour snowfall,NA,PHI,08:00 PM,2026-02-23T01:00:00Z
 2/22/2026,630 PM,MD,Washington,Boonsboro,3,NNE,39.55,-77.64,SNOW,4.1,Inch,Trained Spotter,Storm Total Snow,NA,LWX,6:30 PM,2026-02-22T23:30:00Z
 2/22/2026,735 PM,MD,Frederick,Sabillasville,NA,NA,39.7,-77.46,SNOW,4,Inch,Emergency Mngr,Storm Total Snow,NA,LWX,7:35 PM,2026-02-23T00:35:00Z
 2/22/2026,710 PM,MD,Frederick,New Market,1,N,39.4,-77.27,SNOW,2.8,Inch,Social Media,Storm Total Snow,NA,LWX,7:10 PM,2026-02-23T00:10:00Z
