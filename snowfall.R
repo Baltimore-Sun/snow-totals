@@ -236,17 +236,17 @@ if (any(is.na(snowfall_totals$datetime))) {
 # Export complete data as CSV (before time filter)
 write_csv(snowfall_totals, "snowfall_totals_0222.csv")
 
-# Filter out records before 9 PM EST on Feb 22, 2026
-cutoff_time <- as.POSIXct("2026-02-22 21:00:00", tz = "America/New_York")
+# Filter out records before 10 PM EST on Feb 22, 2026
+cutoff_time <- as.POSIXct("2026-02-22 22:00:00", tz = "America/New_York")
 
-cat("\nFiltering records before 9 PM EST on Feb 22, 2026\n")
+cat("\nFiltering records before 10 PM EST on Feb 22, 2026\n")
 cat("Cutoff time:", format(cutoff_time, "%Y-%m-%d %I:%M %p %Z"), "\n")
 cat("Records before filter:", nrow(snowfall_totals), "\n")
 
 snowfall_totals <- snowfall_totals %>%
   filter(datetime >= cutoff_time)
 
-cat("Records after 9 PM EST Feb 22 filter:", nrow(snowfall_totals), "\n\n")
+cat("Records after 10 PM EST Feb 22 filter:", nrow(snowfall_totals), "\n\n")
 
 #construct map data (using filtered data)
 date_parsed <- as.Date(snowfall_totals$date, format = "%m/%d/%Y")
