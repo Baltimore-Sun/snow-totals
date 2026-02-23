@@ -1,13 +1,49 @@
 date,time,state,county,location,distance,direction,lat,lon,phenomenon,value,unit,source,description,X15,office,time_fixed,datetime
+2/23/2026,1037 AM,MD,Caroline,Greensboro,NA,NA,38.976247,-75.804336,SNOW_24,14,Inch,Emergency Mngr,24 hour snowfall,NA,PHI,10:37 AM,2026-02-23T15:37:00Z
+2/23/2026,1030 AM,MD,Worcester,Ocean Pines,NA,NA,38.3872,-75.1492,SNOW_24,14,Inch,Public,24 hour snowfall,NA,AKQ,10:30 AM,2026-02-23T15:30:00Z
+2/23/2026,0815 AM,MD,Wicomico,Parsonsburg,NA,NA,38.3868,-75.4679,SNOW_24,12.5,Inch,Public,24 hour snowfall,NA,AKQ,08:15 AM,2026-02-23T13:15:00Z
 2/23/2026,543 AM,MD,Washington,Sabillasville,2,NNW,39.72,-77.47,SNOW,12.3,Inch,CoCoRaHS,Storm Total Snow,NA,LWX,5:43 AM,2026-02-23T10:43:00Z
+2/23/2026,1038 AM,MD,Caroline,Denton,NA,NA,38.883951,-75.827624,SNOW_24,12,Inch,Emergency Mngr,24 hour snowfall,NA,PHI,10:38 AM,2026-02-23T15:38:00Z
+2/23/2026,1100 AM,MD,Caroline,4 SSE Ingleside,NA,NA,39.06377,-75.84877,SNOW_24,12,Inch,Trained Spotter,24 hour snowfall,NA,PHI,11:00 AM,2026-02-23T16:00:00Z
+2/23/2026,0930 AM,MD,Wicomico,Pittsville,NA,NA,38.3917,-75.4074,SNOW_24,12,Inch,Public,24 hour snowfall,NA,AKQ,09:30 AM,2026-02-23T14:30:00Z
+2/23/2026,1035 AM,MD,Caroline,3 N Oakland,NA,NA,39.033862,-75.877523,SNOW_24,11,Inch,Emergency Mngr,24 hour snowfall,NA,PHI,10:35 AM,2026-02-23T15:35:00Z
+2/23/2026,0830 AM,MD,Wicomico,Sharptown,NA,NA,38.5416,-75.722,SNOW_24,11,Inch,Public,24 hour snowfall,NA,AKQ,08:30 AM,2026-02-23T13:30:00Z
+2/23/2026,0700 AM,MD,Worcester,3 SW Ocean City Municipality,NA,NA,38.285287359257,-75.167265675018,SNOW_24,10.5,Inch,Cocorahs,24 hour snowfall,NA,AKQ,07:00 AM,2026-02-23T12:00:00Z
+2/23/2026,0600 AM,MD,Wicomico,Delmar 0.3 ESE,NA,NA,38.4516,-75.5694,SNOW_24,10.3,Inch,COCORAHS,24 hour snowfall,NA,AKQ,06:00 AM,2026-02-23T11:00:00Z
 2/23/2026,700 AM,MD,Frederick,Cavetown,3,ESE,39.63,-77.54,SNOW,10,Inch,Trained Spotter,Storm Total Snow,NA,LWX,7:00 AM,2026-02-23T12:00:00Z
+2/23/2026,1036 AM,MD,Queen Annes,3 SSE Hope,NA,NA,39.003378,-75.957969,SNOW_24,10,Inch,Emergency Mngr,24 hour snowfall,NA,PHI,10:36 AM,2026-02-23T15:36:00Z
+2/23/2026,1035 AM,MD,Queen Annes,Sudlersville,NA,NA,39.187981,-75.859166,SNOW_24,10,Inch,Emergency Mngr,24 hour snowfall,NA,PHI,10:35 AM,2026-02-23T15:35:00Z
+2/23/2026,0900 AM,MD,Wicomico,2 SSE Delmar,NA,NA,38.4254,-75.5609,SNOW_24,10,Inch,Trained Spotter,24 hour snowfall,NA,AKQ,09:00 AM,2026-02-23T14:00:00Z
+2/23/2026,0500 AM,MD,Somerset,2 S Princess Anne,NA,NA,38.18207963750794,-75.69084476478903,SNOW_24,9,Inch,Dept of Highways,24 hour snowfall,NA,AKQ,05:00 AM,2026-02-23T10:00:00Z
+2/23/2026,0500 AM,MD,Wicomico,1 WNW Salisbury,NA,NA,38.37586467078694,-75.6096289007038,SNOW_24,9,Inch,Dept of Highways,24 hour snowfall,NA,AKQ,05:00 AM,2026-02-23T10:00:00Z
+2/23/2026,0700 AM,MD,Wicomico,2 ENE Salisbury-Wicomico,NA,NA,38.3504,-75.4784,SNOW_24,9,Inch,Cocorahs,24 hour snowfall,NA,AKQ,07:00 AM,2026-02-23T12:00:00Z
+2/23/2026,0800 AM,MD,Wicomico,3 ESE Hebron,NA,NA,38.3989,-75.6423,SNOW_24,9,Inch,Public,24 hour snowfall,NA,AKQ,08:00 AM,2026-02-23T13:00:00Z
+2/23/2026,0800 AM,MD,Worcester,Pocomoke City,NA,NA,38.0729,-75.5619,SNOW_24,9,Inch,Public,24 hour snowfall,NA,AKQ,08:00 AM,2026-02-23T13:00:00Z
+2/23/2026,0900 AM,MD,Worcester,1 NE Snow Hill,NA,NA,38.188,-75.3775,SNOW_24,9,Inch,Public,24 hour snowfall,NA,AKQ,09:00 AM,2026-02-23T14:00:00Z
+2/23/2026,0850 AM,MD,Dorchester,2 ENE East New Market,NA,NA,38.6087,-75.895,SNOW_24,8.8,Inch,Public,24 hour snowfall,NA,AKQ,08:50 AM,2026-02-23T13:50:00Z
 2/23/2026,554 AM,MD,Cecil,Elkton,2,W,39.6,-75.86,SNOW,8.5,Inch,Dept of Highways,Storm Total Snow,NA,LWX,5:54 AM,2026-02-23T10:54:00Z
+2/23/2026,1036 AM,MD,Queen Annes,Church Hill,NA,NA,39.1458178,-75.9807529,SNOW_24,8.5,Inch,Emergency Mngr,24 hour snowfall,NA,PHI,10:36 AM,2026-02-23T15:36:00Z
+2/23/2026,1037 AM,MD,Queen Annes,3 SSE Church Hill,NA,NA,39.097688,-75.958987,SNOW_24,8,Inch,Emergency Mngr,24 hour snowfall,NA,PHI,10:37 AM,2026-02-23T15:37:00Z
+2/23/2026,0323 AM,MD,Dorchester,Cambridge,NA,NA,38.562797389167386,-76.08205316316044,SNOW_24,8,Inch,911 Call Center,24 hour snowfall,NA,AKQ,03:23 AM,2026-02-23T08:23:00Z
+2/23/2026,0900 AM,MD,Dorchester,1 NNE Wingate,NA,NA,38.3009,-76.0725,SNOW_24,8,Inch,Public,24 hour snowfall,NA,AKQ,09:00 AM,2026-02-23T14:00:00Z
+2/23/2026,0900 AM,MD,Somerset,1 S Deal Island,NA,NA,38.1429,-75.9473,SNOW_24,8,Inch,Public,24 hour snowfall,NA,AKQ,09:00 AM,2026-02-23T14:00:00Z
+2/23/2026,0700 AM,MD,Wicomico,Hebron,NA,NA,38.4215,-75.6883,SNOW_24,8,Inch,Public,24 hour snowfall,NA,AKQ,07:00 AM,2026-02-23T12:00:00Z
+2/23/2026,1230 AM,MD,Dorchester,Vienna,NA,NA,38.485108,-75.825666,SNOW_24,7.5,Inch,Public,24 hour snowfall,NA,AKQ,12:30 AM,2026-02-23T05:30:00Z
+2/23/2026,0500 AM,MD,Worcester,1 NE Snow Hill,NA,NA,38.18805111487771,-75.37852633529275,SNOW_24,7.5,Inch,Dept of Highways,24 hour snowfall,NA,AKQ,05:00 AM,2026-02-23T10:00:00Z
 2/23/2026,732 AM,MD,Montgomery,Damascus,3,SSW,39.26,-77.23,SNOW,7.1,Inch,Co-Op Observer,Storm Total Snow,NA,LWX,7:32 AM,2026-02-23T12:32:00Z
 2/23/2026,915 AM,MD,Cecil,North East,NA,NA,39.6,-75.94,SNOW,7,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:15 AM,2026-02-23T14:15:00Z
 2/23/2026,813 AM,MD,Frederick,Mount Airy,1,NW,39.38,-77.18,SNOW,7,Inch,Public,Storm Total Snow,NA,LWX,8:13 AM,2026-02-23T13:13:00Z
+2/23/2026,0715 AM,MD,Queen Annes,Centreville,NA,NA,39.045049,-76.064683,SNOW_24,7,Inch,Emergency Mngr,24 hour snowfall,NA,PHI,07:15 AM,2026-02-23T12:15:00Z
+2/23/2026,1033 AM,MD,Queen Annes,Crumpton,NA,NA,39.240026,-75.923611,SNOW_24,7,Inch,Emergency Mngr,24 hour snowfall,NA,PHI,10:33 AM,2026-02-23T15:33:00Z
+2/23/2026,1031 AM,MD,Talbot,Wye Mills,NA,NA,38.9368124,-76.0792095,SNOW_24,7,Inch,Emergency Mngr,24 hour snowfall,NA,PHI,10:31 AM,2026-02-23T15:31:00Z
+2/23/2026,0500 AM,MD,Dorchester,2 ESE Cambridge,NA,NA,38.55353335782584,-76.03313520366007,SNOW_24,7,Inch,Dept of Highways,24 hour snowfall,NA,AKQ,05:00 AM,2026-02-23T10:00:00Z
+2/23/2026,1028 AM,MD,Dorchester,Cambridge,NA,NA,38.5679,-76.0742,SNOW_24,7,Inch,NWS Employee,24 hour snowfall,NA,AKQ,10:28 AM,2026-02-23T15:28:00Z
+2/23/2026,0700 AM,MD,Worcester,Snow Hill,NA,NA,38.1683,-75.3921,SNOW_24,7,Inch,Cocorahs,24 hour snowfall,NA,AKQ,07:00 AM,2026-02-23T12:00:00Z
 2/23/2026,603 AM,MD,Carroll,Watersville,1,N,39.38,-77.1,SNOW,6.8,Inch,Trained Spotter,Storm Total Snow,NA,LWX,6:03 AM,2026-02-23T11:03:00Z
 2/23/2026,725 AM,MD,Frederick,Mount Airy,1,SW,39.37,-77.17,SNOW,6.8,Inch,Trained Spotter,Storm Total Snow,NA,LWX,7:25 AM,2026-02-23T12:25:00Z
 2/23/2026,630 AM,MD,Cecil,Perryville,NA,NA,39.57,-76.07,SNOW,6.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,6:30 AM,2026-02-23T11:30:00Z
+2/22/2026,1036 PM,MD,Dorchester,2 ENE East New Market,NA,NA,38.6087,-75.895,SNOW_24,6.5,Inch,Public,24 hour snowfall,NA,AKQ,10:36 PM,2026-02-23T03:36:00Z
+2/23/2026,0900 AM,MD,Somerset,Eden,NA,NA,38.2817,-75.6451,SNOW_24,6.5,Inch,Public,24 hour snowfall,NA,AKQ,09:00 AM,2026-02-23T14:00:00Z
 2/23/2026,715 AM,MD,Montgomery,Damascus,1,S,39.26,-77.21,SNOW,6.2,Inch,Trained Spotter,Storm Total Snow,NA,LWX,7:15 AM,2026-02-23T12:15:00Z
 2/23/2026,435 AM,MD,Carroll,Winfield,1,N,39.46,-77.05,SNOW,6,Inch,Trained Spotter,Storm Total Snow,NA,LWX,4:35 AM,2026-02-23T09:35:00Z
 2/23/2026,725 AM,MD,Carroll,Marston,2,ENE,39.52,-77.06,SNOW,6,Inch,Trained Spotter,Storm Total Snow,NA,LWX,7:25 AM,2026-02-23T12:25:00Z
@@ -15,13 +51,14 @@ date,time,state,county,location,distance,direction,lat,lon,phenomenon,value,unit
 2/23/2026,630 AM,MD,St. Marys,Clements,3,E,38.33,-76.68,SNOW,6,Inch,Dept of Highways,Storm Total Snow,NA,LWX,6:30 AM,2026-02-23T11:30:00Z
 2/23/2026,600 AM,MD,Washington,Boonsboro,1,SSE,39.5,-77.65,SNOW,6,Inch,Trained Spotter,Storm Total Snow,NA,LWX,6:00 AM,2026-02-23T11:00:00Z
 2/23/2026,0530 AM,MD,Kent,Millington,NA,NA,39.2589328,-75.8398635,SNOW_24,6,Inch,Public,24 hour snowfall,NA,PHI,05:30 AM,2026-02-23T10:30:00Z
+2/23/2026,1025 AM,MD,Talbot,1 S Royal Oak,NA,NA,38.7063046,-76.1905831,SNOW_24,6,Inch,Public,24 hour snowfall,NA,PHI,10:25 AM,2026-02-23T15:25:00Z
 2/23/2026,600 AM,MD,Frederick,Green Valley,1,WNW,39.35,-77.25,SNOW,5.8,Inch,Trained Spotter,Storm Total Snow,NA,LWX,6:00 AM,2026-02-23T11:00:00Z
 2/23/2026,820 AM,MD,Garrett,Oakland,5,NW,39.45,-79.47,SNOW,5.8,Inch,Trained Spotter,Storm Total Snow,NA,LWX,8:20 AM,2026-02-23T13:20:00Z
 2/23/2026,630 AM,MD,Montgomery,Gaithersburg,NA,NA,39.15,-77.22,SNOW,5.8,Inch,Dept of Highways,Storm Total Snow,NA,LWX,6:30 AM,2026-02-23T11:30:00Z
+2/23/2026,0800 AM,MD,Somerset,Princess Anne,NA,NA,38.2043,-75.6954,SNOW_24,5.8,Inch,Other Federal,24 hour snowfall,NA,AKQ,08:00 AM,2026-02-23T13:00:00Z
 2/23/2026,715 AM,MD,Montgomery,Damascus,1,SE,39.27,-77.19,SNOW,5.7,Inch,Trained Spotter,Storm Total Snow,NA,LWX,7:15 AM,2026-02-23T12:15:00Z
 2/23/2026,515 AM,MD,Harford,Chrome Hill,2,SE,39.6,-76.39,SNOW,5.6,Inch,Trained Spotter,Storm Total Snow,NA,LWX,5:15 AM,2026-02-23T10:15:00Z
 2/23/2026,512 AM,MD,Montgomery,Gaithersburg,2,E,39.14,-77.17,SNOW,5.5,Inch,NWS Employee,Storm Total Snow,NA,LWX,5:12 AM,2026-02-23T10:12:00Z
-2/22/2026,1008 PM,MD,Queen Annes,1 SSW Carville,NA,NA,39.0311,-76.019,SNOW_24,5.5,Inch,Emergency Mngr,24 hour snowfall,NA,PHI,10:08 PM,2026-02-23T03:08:00Z
 2/23/2026,724 AM,MD,Carroll,Millers,4,NE,39.72,-76.8,SNOW,5.4,Inch,Co-Op Observer,Storm Total Snow,NA,LWX,7:24 AM,2026-02-23T12:24:00Z
 2/23/2026,747 AM,MD,Garrett,Accident,4,E,39.62,-79.25,SNOW,5.3,Inch,Public,Storm Total Snow,NA,LWX,7:47 AM,2026-02-23T12:47:00Z
 2/23/2026,705 AM,MD,Montgomery,Laytonsville,2,WNW,39.22,-77.19,SNOW,5.3,Inch,Trained Spotter,Storm Total Snow,NA,LWX,7:05 AM,2026-02-23T12:05:00Z
@@ -41,8 +78,10 @@ date,time,state,county,location,distance,direction,lat,lon,phenomenon,value,unit
 2/23/2026,625 AM,MD,Carroll,Uniontown,3,N,39.63,-77.12,SNOW,4.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,6:25 AM,2026-02-23T11:25:00Z
 2/23/2026,700 AM,MD,Garrett,Deer Park,6,NE,39.49,-79.26,SNOW,4.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,7:00 AM,2026-02-23T12:00:00Z
 2/23/2026,847 AM,MD,Montgomery,Germantown,1,SE,39.17,-77.25,SNOW,4.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,8:47 AM,2026-02-23T13:47:00Z
+2/23/2026,1032 AM,MD,Queen Annes,Queenstown,NA,NA,38.990764,-76.155949,SNOW_24,4.5,Inch,Emergency Mngr,24 hour snowfall,NA,PHI,10:32 AM,2026-02-23T15:32:00Z
 2/23/2026,0700 AM,MD,Talbot,Easton 0.9 SSE,NA,NA,38.7618,-76.0664,SNOW_24,4.5,Inch,COCORAHS,24 hour snowfall,NA,PHI,07:00 AM,2026-02-23T12:00:00Z
 2/23/2026,728 AM,MD,St. Marys,California,3,W,38.3,-76.56,SNOW,4.4,Inch,Trained Spotter,Storm Total Snow,NA,LWX,7:28 AM,2026-02-23T12:28:00Z
+2/23/2026,0700 AM,MD,Queen Annes,2 SW Stevensville,NA,NA,38.97,-76.34,SNOW_24,4.4,Inch,CO-OP Observer,24 hour snowfall,NA,PHI,07:00 AM,2026-02-23T12:00:00Z
 2/23/2026,555 AM,MD,Cecil,Rock Springs,1,ESE,39.71,-76.14,SNOW,4.3,Inch,Trained Spotter,Storm Total Snow,NA,LWX,5:55 AM,2026-02-23T10:55:00Z
 2/23/2026,712 AM,MD,Baltimore,Perry Hall,1,NNE,39.42,-76.47,SNOW,4.2,Inch,Trained Spotter,Storm Total Snow,NA,LWX,7:12 AM,2026-02-23T12:12:00Z
 2/23/2026,700 AM,MD,Harford,Forest Hill,2,SW,39.56,-76.42,SNOW,4.2,Inch,Trained Spotter,Storm Total Snow,NA,LWX,7:00 AM,2026-02-23T12:00:00Z
@@ -61,6 +100,7 @@ date,time,state,county,location,distance,direction,lat,lon,phenomenon,value,unit
 2/23/2026,545 AM,MD,Howard,Dayton,1,NE,39.25,-76.98,SNOW,4,Inch,Dept of Highways,Storm Total Snow,NA,LWX,5:45 AM,2026-02-23T10:45:00Z
 2/23/2026,900 AM,MD,Montgomery,Aspen Hill,1,SW,39.08,-77.09,SNOW,4,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:00 AM,2026-02-23T14:00:00Z
 2/23/2026,800 AM,MD,St. Marys,Great Mills,1,NNE,38.26,-76.49,SNOW,4,Inch,Trained Spotter,Storm Total Snow,NA,LWX,8:00 AM,2026-02-23T13:00:00Z
+2/22/2026,0930 PM,MD,Wicomico,Salisbury-Wicomico,NA,NA,38.3412,-75.5111,SNOW_24,4,Inch,CO-OP Observer,24 hour snowfall,NA,AKQ,09:30 PM,2026-02-23T02:30:00Z
 2/23/2026,645 AM,MD,Carroll,Westminster,NA,SE,39.58,-77,SNOW,3.9,Inch,Trained Spotter,Storm Total Snow,NA,LWX,6:45 AM,2026-02-23T11:45:00Z
 2/23/2026,700 AM,MD,Montgomery,Norbeck,1,ESE,39.1,-77.06,SNOW,3.9,Inch,Trained Spotter,Storm Total Snow,NA,LWX,7:00 AM,2026-02-23T12:00:00Z
 2/23/2026,0755 AM,MD,Kent,Chestertown,NA,NA,39.21173630245576,-76.07093264165843,SNOW_24,3.9,Inch,Trained Spotter,24 hour snowfall,NA,PHI,07:55 AM,2026-02-23T12:55:00Z
@@ -84,6 +124,7 @@ date,time,state,county,location,distance,direction,lat,lon,phenomenon,value,unit
 2/23/2026,446 AM,MD,Garrett,Mountain Lake Park,1,ENE,39.41,-79.36,SNOW,3,Inch,Dept of Highways,Storm Total Snow,NA,LWX,4:46 AM,2026-02-23T09:46:00Z
 2/23/2026,700 AM,MD,Howard,Columbia,NA,NA,39.2,-76.85,SNOW,3,Inch,NWS Employee,Storm Total Snow,NA,LWX,7:00 AM,2026-02-23T12:00:00Z
 2/23/2026,700 AM,MD,St. Marys,Ridge,1,E,38.12,-76.36,SNOW,3,Inch,Trained Spotter,Storm Total Snow,NA,LWX,7:00 AM,2026-02-23T12:00:00Z
+2/22/2026,0825 PM,MD,Dorchester,2 SE East New Market,NA,NA,38.5798,-75.899,SNOW_24,3,Inch,911 Call Center,24 hour snowfall,NA,AKQ,08:25 PM,2026-02-23T01:25:00Z
 2/23/2026,800 AM,MD,Frederick,Bloomfield,2,WSW,39.46,-77.46,SNOW,2.9,Inch,NWS Employee,Storm Total Snow,NA,LWX,8:00 AM,2026-02-23T13:00:00Z
 2/23/2026,853 AM,MD,Montgomery,Glenmont,2,NNE,39.08,-77.04,SNOW,2.9,Inch,Trained Spotter,Storm Total Snow,NA,LWX,8:53 AM,2026-02-23T13:53:00Z
 2/23/2026,700 AM,MD,Carroll,Eldersburg,1,ESE,39.4,-76.93,SNOW,2.8,Inch,Trained Spotter,Storm Total Snow,NA,LWX,7:00 AM,2026-02-23T12:00:00Z
@@ -107,6 +148,8 @@ date,time,state,county,location,distance,direction,lat,lon,phenomenon,value,unit
 2/23/2026,930 AM,MD,Baltimore,Catonsville,1,SSE,39.24,-76.73,SNOW,2,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:30 AM,2026-02-23T14:30:00Z
 2/23/2026,915 AM,MD,Howard,Ellicott City,1,SW,39.26,-76.85,SNOW,2,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:15 AM,2026-02-23T14:15:00Z
 2/23/2026,700 AM,MD,Washington,Maugansville,NA,WSW,39.69,-77.75,SNOW,2,Inch,Trained Spotter,Storm Total Snow,NA,LWX,7:00 AM,2026-02-23T12:00:00Z
+2/23/2026,1030 AM,MD,Queen Annes,1 ENE Chester,NA,NA,38.9747537,-76.2806553,SNOW_24,2,Inch,Emergency Mngr,24 hour snowfall,NA,PHI,10:30 AM,2026-02-23T15:30:00Z
+2/23/2026,0900 AM,MD,Queen Annes,Stevensville,NA,NA,38.995461,-76.310233,SNOW_24,2,Inch,Trained Spotter,24 hour snowfall,NA,PHI,09:00 AM,2026-02-23T14:00:00Z
 2/23/2026,700 AM,MD,Anne Arundel,Bwi Airport,NA,NA,39.18,-76.65,SNOW,1.9,Inch,Official NWS Obs,Storm Total Snow,NA,LWX,7:00 AM,2026-02-23T12:00:00Z
 2/23/2026,637 AM,MD,Howard,Laurel,3,NNE,39.13,-76.84,SNOW,1.9,Inch,Trained Spotter,Storm Total Snow,NA,LWX,6:37 AM,2026-02-23T11:37:00Z
 2/23/2026,730 AM,MD,Anne Arundel,Crownsville,3,SSW,38.98,-76.62,SNOW,1.8,Inch,Trained Spotter,Storm Total Snow,NA,LWX,7:30 AM,2026-02-23T12:30:00Z
