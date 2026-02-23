@@ -1,18 +1,40 @@
 date,time,state,county,location,distance,direction,lat,lon,phenomenon,value,unit,source,description,X15,office,time_fixed,datetime
+2/22/2026,630 PM,MD,Washington,Boonsboro,3,NNE,39.55,-77.64,SNOW,4.1,Inch,Trained Spotter,Storm Total Snow,NA,LWX,6:30 PM,2026-02-22T23:30:00Z
+2/22/2026,735 PM,MD,Frederick,Sabillasville,NA,NA,39.7,-77.46,SNOW,4,Inch,Emergency Mngr,Storm Total Snow,NA,LWX,7:35 PM,2026-02-23T00:35:00Z
+2/22/2026,710 PM,MD,Frederick,New Market,1,N,39.4,-77.27,SNOW,2.8,Inch,Social Media,Storm Total Snow,NA,LWX,7:10 PM,2026-02-23T00:10:00Z
 2/22/2026,435 PM,MD,Garrett,Accident,4,E,39.62,-79.25,SNOW,2.7,Inch,Public,Storm Total Snow,1.6 inch since 3 PM,LWX,4:35 PM,2026-02-22T21:35:00Z
-2/22/2026,514 PM,MD,Washington,Boonsboro,3,NNE,39.55,-77.64,SNOW,2.7,Inch,Trained Spotter,Storm Total Snow,2 hour total,LWX,5:14 PM,2026-02-22T22:14:00Z
-2/22/2026,930 AM,MD,Frederick,Smithsburg,3,SE,39.63,-77.54,SNOW,1.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,9:30 AM,2026-02-22T14:30:00Z
+2/22/2026,700 PM,MD,Frederick,New Market,NA,NA,39.38,-77.27,SNOW,2.5,Inch,Emergency Mngr,Storm Total Snow,NA,LWX,7:00 PM,2026-02-23T00:00:00Z
+2/22/2026,530 PM,MD,Garrett,Grantsville,5,W,39.7,-79.25,SNOW,2.3,Inch,Dept of Highways,Storm Total Snow,NA,LWX,5:30 PM,2026-02-22T22:30:00Z
+2/22/2026,630 PM,MD,St. Marys,Clements,3,E,38.33,-76.68,SNOW,2.3,Inch,Dept of Highways,Storm Total Snow,NA,LWX,6:30 PM,2026-02-22T23:30:00Z
+2/22/2026,600 PM,MD,Garrett,Deer Park,6,NE,39.48,-79.25,SNOW,2,Inch,Trained Spotter,Storm Total Snow,NA,LWX,6:00 PM,2026-02-22T23:00:00Z
+2/22/2026,530 PM,MD,Washington,Funkstown,2,WNW,39.62,-77.74,SNOW,2,Inch,Dept of Highways,Storm Total Snow,NA,LWX,5:30 PM,2026-02-22T22:30:00Z
+2/22/2026,630 PM,MD,Cecil,Perryville,NA,NA,39.57,-76.07,SNOW,1.7,Inch,Dept of Highways,Storm Total Snow,NA,LWX,6:30 PM,2026-02-22T23:30:00Z
+2/22/2026,646 PM,MD,Carroll,Westminster,6,NE,39.64,-76.93,SNOW,1.5,Inch,NWS Employee,Storm Total Snow,NA,LWX,6:46 PM,2026-02-22T23:46:00Z
+2/22/2026,700 PM,MD,Cecil,Rising Sun,1,W,39.7,-76.08,SNOW,1.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,7:00 PM,2026-02-23T00:00:00Z
 2/22/2026,1224 PM,MD,Frederick,Sabillasville,2,SSE,39.68,-77.44,SNOW,1.5,Inch,Trained Spotter,Storm Total Snow,NA,LWX,12:24 PM,2026-02-22T17:24:00Z
 2/22/2026,106 PM,MD,Garrett,McHenry,NA,NA,39.56,-79.35,SNOW,1.5,Inch,Emergency Mngr,Storm Total Snow,NA,LWX,1:06 PM,2026-02-22T18:06:00Z
 2/22/2026,1254 PM,MD,Garrett,Mountain Lake Park,1,ENE,39.41,-79.36,SNOW,1.5,Inch,Dept of Highways,Storm Total Snow,NA,LWX,12:54 PM,2026-02-22T17:54:00Z
 2/22/2026,213 PM,MD,Washington,Pleasant Walk,1,W,39.54,-77.61,SNOW,1.5,Inch,Dept of Highways,Storm Total Snow,NA,LWX,2:13 PM,2026-02-22T19:13:00Z
-2/22/2026,605 AM,MD,Garrett,Deer Park,6,NE,39.49,-79.26,SNOW,1,Inch,Trained Spotter,Storm Total Snow,NA,LWX,6:05 AM,2026-02-22T11:05:00Z
+2/22/2026,630 PM,MD,Frederick,New Market,1,ENE,39.39,-77.26,SNOW,1.4,Inch,Trained Spotter,Storm Total Snow,NA,LWX,6:30 PM,2026-02-22T23:30:00Z
+2/22/2026,700 PM,MD,Harford,Chrome Hill,2,SE,39.6,-76.39,SNOW,1.4,Inch,Trained Spotter,Storm Total Snow,NA,LWX,7:00 PM,2026-02-23T00:00:00Z
+2/22/2026,700 PM,MD,Montgomery,Gaithersburg,2,E,39.14,-77.17,SNOW,1.3,Inch,NWS Employee,Storm Total Snow,NA,LWX,7:00 PM,2026-02-23T00:00:00Z
+2/22/2026,700 PM,MD,Anne Arundel,Bwi Airport,NA,NA,39.18,-76.65,SNOW,1,Inch,Official NWS Obs,Storm Total Snow,NA,LWX,7:00 PM,2026-02-23T00:00:00Z
+2/22/2026,530 PM,MD,Calvert,Prince Frederick,1,S,38.54,-76.59,SNOW,1,Inch,Dept of Highways,Storm Total Snow,NA,LWX,5:30 PM,2026-02-22T22:30:00Z
+2/22/2026,630 PM,MD,Carroll,Westminster,NA,NA,39.58,-77,SNOW,1,Inch,Trained Spotter,Storm Total Snow,NA,LWX,6:30 PM,2026-02-22T23:30:00Z
+2/22/2026,700 PM,MD,Charles,White Plains,NA,NA,38.59,-76.98,SNOW,1,Inch,Trained Spotter,Storm Total Snow,NA,LWX,7:00 PM,2026-02-23T00:00:00Z
 2/22/2026,1256 PM,MD,Garrett,Accident,3,NNE,39.66,-79.3,SNOW,1,Inch,Dept of Highways,Storm Total Snow,NA,LWX,12:56 PM,2026-02-22T17:56:00Z
 2/22/2026,1255 PM,MD,Garrett,Grantsville,4,E,39.69,-79.09,SNOW,1,Inch,Dept of Highways,Storm Total Snow,NA,LWX,12:55 PM,2026-02-22T17:55:00Z
+2/22/2026,650 PM,MD,Harford,Bel Air,NA,NA,39.53,-76.35,SNOW,1,Inch,Broadcast Media,Storm Total Snow,NA,LWX,6:50 PM,2026-02-22T23:50:00Z
+2/22/2026,700 PM,MD,Montgomery,Potomac,NA,NA,39.03,-77.2,SNOW,1,Inch,Emergency Mngr,Storm Total Snow,NA,LWX,7:00 PM,2026-02-23T00:00:00Z
+2/22/2026,640 PM,MD,Baltimore,Reisterstown,1,NE,39.46,-76.8,SNOW,0.8,Inch,Trained Spotter,Storm Total Snow,NA,LWX,6:40 PM,2026-02-22T23:40:00Z
+2/22/2026,530 PM,MD,Montgomery,Poolesville,NA,NA,39.15,-77.41,SNOW,0.8,Inch,Trained Spotter,Storm Total Snow,NA,LWX,5:30 PM,2026-02-22T22:30:00Z
+2/22/2026,728 PM,MD,Montgomery,Glenmont,2,NNE,39.08,-77.04,SNOW,0.8,Inch,Trained Spotter,Storm Total Snow,NA,LWX,7:28 PM,2026-02-23T00:28:00Z
 2/22/2026,500 PM,MD,Calvert,North Beach,2,WNW,38.72,-76.57,SNOW,0.6,Inch,CoCoRaHS,Storm Total Snow,NA,LWX,5:00 PM,2026-02-22T22:00:00Z
+2/22/2026,615 PM,MD,Prince Georges,Bowie,2,SSE,38.94,-76.73,SNOW,0.6,Inch,NWS Employee,Storm Total Snow,NA,LWX,6:15 PM,2026-02-22T23:15:00Z
 2/22/2026,104 PM,MD,Garrett,Barton,NA,NA,39.56,-79.09,SNOW,0.5,Inch,Public,Storm Total Snow,NA,LWX,1:04 PM,2026-02-22T18:04:00Z
 2/22/2026,1258 PM,MD,Garrett,Frostburg,3,WNW,39.66,-78.98,SNOW,0.4,Inch,Trained Spotter,Storm Total Snow,NA,LWX,12:58 PM,2026-02-22T17:58:00Z
+2/22/2026,630 PM,MD,Baltimore City,Arlington,2,ESE,39.34,-76.65,SNOW,0.3,Inch,Broadcast Media,Storm Total Snow,NA,LWX,6:30 PM,2026-02-22T23:30:00Z
 2/22/2026,154 PM,MD,Garrett,Mc Henry,4,SE,39.51,-79.3,SNOW,0.3,Inch,Park/Forest Srvc,Storm Total Snow,NA,LWX,1:54 PM,2026-02-22T18:54:00Z
+2/22/2026,650 PM,MD,Montgomery,Laytonsville,2,WNW,39.22,-77.19,SNOW,0.3,Inch,Trained Spotter,Storm Total Snow,NA,LWX,6:50 PM,2026-02-22T23:50:00Z
 2/22/2026,1259 PM,MD,Allegany,Potomac Park,2,NW,39.63,-78.83,SNOW,NA,Inch,Dept of Highways,Storm Total Snow,NA,LWX,12:59 PM,2026-02-22T17:59:00Z
 2/22/2026,132 PM,MD,Allegany,Wolfe Mill,2,NNE,39.71,-78.71,SNOW,NA,Inch,Trained Spotter,Storm Total Snow,NA,LWX,1:32 PM,2026-02-22T18:32:00Z
-2/22/2026,845 AM,MD,Montgomery,Damascus,3,SSW,39.26,-77.23,SNOW,NA,Inch,Co-Op Observer,Storm Total Snow,NA,LWX,8:45 AM,2026-02-22T13:45:00Z
